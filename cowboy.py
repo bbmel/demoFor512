@@ -1,0 +1,2 @@
+def cowboy()
+	print("cowboy")
